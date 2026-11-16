@@ -2,9 +2,7 @@
 
 PlantAi is a CNN trained on PlantVillage to classify leaf images as healthy or diseased. This repository provides PyTorch training code and export tools (ONNX / TorchScript / TFLite) for deployment.
 
-<p align="center">
-  <img src="asset/app.gif" alt="App Demo GIF" width="200">
-</p>
+
 
 
 
